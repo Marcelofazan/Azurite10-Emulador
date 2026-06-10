@@ -19,7 +19,7 @@ C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\Extensions\Mic
 
 Clique com Botão Inverso em **(Emulador Portas Padrão)** e escolha a opção **(Copiar Chave Primária)** 
 
-⚠️ Cahve Key de conexão do emulador
+⚠️ Chave Key de conexão do Emulador
 
 - Altere pela sua chave nos locais indicados 
 ```bash
