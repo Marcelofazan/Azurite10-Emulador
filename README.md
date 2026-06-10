@@ -4,14 +4,12 @@ Criação de exemplo do Emulador Azurite com Blob, Queue e Table utilizando Azur
 
 #### Requisitos do Projeto
 
-- Fazer Download
-[Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer)
+Faça o Download em :
+- [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer)
 
 
-Em Variáveis de Ambiente, clique em Editar as variáveis de ambiente do sistema.
-
+Após instalação em Variáveis de Ambiente, clique em Editar as variáveis de ambiente do sistema.
 Na lista de Variáveis do usuário, procure pela linha chamada Path e dê um duplo clique nela.
-
 Clique no botão Novo do lado direito.
 
 Cole o caminho exato da pasta do Azurite:
